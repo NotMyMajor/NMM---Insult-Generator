@@ -1,6 +1,8 @@
 # NMM---Insult-Generator
 Generate as many terrible insults in different formats as you could possibly want!
 
+WARNING! I'm not kidding when I say that these insults are terrible. There's some bad bad words in there. Use with caution.
+
 NMM has upgraded! I actually sort of learned how to make exe files and installers so now there is a fancy new installer you can download! Yay!
 
 I'll leave the actual python code in this repository, but it's really just there if you want to mess around with it.
