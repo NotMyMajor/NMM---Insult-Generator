@@ -7,5 +7,7 @@ I'll leave the actual python code in this repository, but it's really just there
 
 The installer will NOT generate a desktop shortcut automatically so please make sure to go to the installation path and make a desktop shortcut if you want.
 
+Your browser and computer will both probably try to warn you that the installer is not to be trusted. Yes I am not a known app publisher. No my installer will not kill your computer. I promise.
+
 If you use my code to do something fun or cool, share it with me! Also, credit is nice to have too.
 Enjoy!
