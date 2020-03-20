@@ -5,7 +5,7 @@ NMM has upgraded! I actually sort of learned how to make exe files and installer
 
 I'll leave the actual python code in this repository, but it's really just there if you want to mess around with it.
 
-The installer will #NOT generate a desktop shortcut automatically so please make sure to go to the installation path and make a desktop shortcut if you want.
+The installer will NOT generate a desktop shortcut automatically so please make sure to go to the installation path and make a desktop shortcut if you want.
 
 If you use my code to do something fun or cool, share it with me! Also, credit is nice to have too.
 Enjoy!
