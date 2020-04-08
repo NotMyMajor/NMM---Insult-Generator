@@ -23,3 +23,12 @@ Generate as many terrible insults in different formats as you could possibly wan
 
 ## If you use my code to do something fun or cool, share it with me! Also, credit is nice to have too.
 ## Enjoy!
+
+Find NotMyMajor on:
+
+YouTube: https://www.youtube.com/channel/UC3AAzOir9-2zWmsJFtfxhcw
+
+Twitch: https://www.twitch.tv/notmymajor
+
+GitHub: https://github.com/NotMyMajor
+
