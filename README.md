@@ -7,7 +7,7 @@ Generate as many terrible insults in different formats as you could possibly wan
 
 - I'll leave the actual python code in this repository, but it's really just there if you want to mess around with it.
 
-- The installer will NOT generate a desktop shortcut automatically so please make sure to go to the installation path and make a desktop shortcut if you want.
+- The installer will NOT generate a desktop shortcut automatically so please make sure to go to the installation path and make a desktop shortcut if you want one. The default installation path is under C://Program Files (x86)/NMMInsultGenerator. Just navigate to that folder and right click the application file and select send to desktop (shortcut).
 
 - Your browser and computer will both probably try to warn you that the installer is not to be trusted. Yes I am not a known app publisher. No my installer will not kill your computer. I promise.
 
