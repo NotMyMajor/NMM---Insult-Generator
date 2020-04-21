@@ -111,17 +111,20 @@ def main():
     while y_n_loop:
         all_the_words = import_file()
         max_num = int(len(all_the_words)) - 1
-        repeat_times = input("How many insults would you like?\n")
-        fast_slow = input("Would you like them printed fast or slow?\n").lower()
+        repeat_times = input("How many insults would you like?\n").strip().lower()
+        fast_slow = input("Would you like them printed fast or slow?\n").strip().lower()
         fast_slow = fast_slow_checker(fast_slow)
         if repeat_times == "inf" or repeat_times == "infinity" or repeat_times == "infinite":
             while True:
                 generate_insult(all_the_words, max_num, fast_slow)
         else:
-            repeat_times = is_it_a_number_dumbass(repeat_times)
-            for i in range(repeat_times):
-                generate_insult(all_the_words, max_num, fast_slow)
-            y_n_loop = loop_checker()
-
+            try:
+                int(repeat_times)
+                repeat_times = is_it_a_number_dumbass(repeat_times)
+                for i in range(repeat_times):
+                    generate_insult(all_the_words, max_num, fast_slow)
+                y_n_loop = loop_checker()
+            except:
+                print("Please enter a valid integer number or infinity.")
 if __name__ == "__main__":
     main()
